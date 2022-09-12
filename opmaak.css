@@ -5,3 +5,9 @@ h1 {
     text-align: center;   
   }
   
+
+  #grad1 {
+    height: 200px;
+    background-color: violet; /* For browsers that do not support gradients */
+    background-image: linear-gradient(violet, lightblue);
+  }
