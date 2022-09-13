@@ -11,3 +11,7 @@ h1 {
     background-color: violet; /* For browsers that do not support gradients */
     background-image: linear-gradient(violet, lightblue);
   }
+
+  ul{
+  text-align: center;
+  }
