@@ -18,6 +18,14 @@ h1 {
     background-image: linear-gradient(violet, lightblue);
   }
 
+  #grad2 {
+    height: 1000px;
+    background-color: rgb(128, 105, 243); /* For browsers that do not support gradients */
+    background-image: linear-gradient(rgb(128, 105, 243), rgb(37, 167, 247));
+  }
+
+  
+
   ul{
   text-align: center;
   }
