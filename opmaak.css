@@ -25,6 +25,15 @@ h1 {
   }
 
   
+  #grad3 {
+    height: 1000px;
+    background-color: rgb(9, 181, 112); /* For browsers that do not support gradients */
+    background-image: linear-gradient(rgb(9, 181, 112), rgb(179, 255, 230));
+  }
+
+  
+
+  
 
   ul{
   text-align: center;
