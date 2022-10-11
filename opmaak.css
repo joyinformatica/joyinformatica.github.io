@@ -13,7 +13,7 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  /* Style the header */
+  /* Hiermee style je het bovenste kopje */
   header h4 {
     background-color: #666;
     padding: 30px;
@@ -22,12 +22,12 @@
     color: white;
   }
   
-  /* Create two columns/boxes that floats next to each other */
+  /* Dit maakt 2 vakjes die naast elkaar zweven */
   nav {
     float: left;
     width: 20%;
-    height: 500px; /* only for demonstration, should be removed */
     background: #ccc;
+    height: auto;
     padding: 20px;
   }
   
@@ -41,8 +41,8 @@
     float: left;
     padding: 20px;
     width: 80%;
+    height: auto;
     background-color: #f1f1f1;
-    height: 500px; /* only for demonstration, should be removed */
   }
   
   /* Clear floats after the columns */
