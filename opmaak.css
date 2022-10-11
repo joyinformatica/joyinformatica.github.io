@@ -11,30 +11,6 @@ h1 {
     text-align: center;   
   }
 
-  
-  #grad1 {
-    height: 1000px;
-    background-color: violet; /* For browsers that do not support gradients */
-    background-image: linear-gradient(violet, lightblue);
-  }
-
-  #grad2 {
-    height: 1000px;
-    background-color: rgb(128, 105, 243); /* For browsers that do not support gradients */
-    background-image: linear-gradient(rgb(128, 105, 243), rgb(37, 167, 247));
-  }
-
-  
-  #grad3 {
-    height: 1000px;
-    background-color: rgb(9, 181, 112); /* For browsers that do not support gradients */
-    background-image: linear-gradient(rgb(9, 181, 112), rgb(179, 255, 230));
-  }
-
-  
-
-  
-
   ul{
   text-align: center;
   }
@@ -59,8 +35,8 @@ h1 {
   /* Create two columns/boxes that floats next to each other */
   nav {
     float: left;
-    width: 30%;
-    height: 300px; /* only for demonstration, should be removed */
+    width: 20%;
+    height: 500px; /* only for demonstration, should be removed */
     background: #ccc;
     padding: 20px;
   }
@@ -74,9 +50,9 @@ h1 {
   article {
     float: left;
     padding: 20px;
-    width: 70%;
+    width: 80%;
     background-color: #f1f1f1;
-    height: 300px; /* only for demonstration, should be removed */
+    height: 500px; /* only for demonstration, should be removed */
   }
   
   /* Clear floats after the columns */
@@ -89,7 +65,7 @@ h1 {
   /* Style the footer */
   footer {
     background-color: #777;
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     color: white;
   }
