@@ -15,7 +15,7 @@
   
   /* Hiermee style je het bovenste kopje */
   header h4 {
-    background-color: #666;
+    background-color: rgba(1, 15, 90, 0.87);
     padding: 30px;
     text-align: center;
     font-size: 35px;
@@ -26,8 +26,8 @@
   nav {
     float: left;
     width: 20%;
-    background: #ccc;
-    height: auto;
+    background: rgba(1, 30, 161, 0.699);
+    height: 500px;
     padding: 20px;
   }
   
@@ -39,10 +39,10 @@
   
   article {
     float: left;
-    padding: 20px;
+    padding; 20px;
     width: 80%;
-    height: auto;
-    background-color: #f1f1f1;
+    height: 500px;
+    background-color: rgba(1, 30, 360, 0.60);
   }
 
   h5 {                                    
@@ -61,7 +61,7 @@
   
   /* Style the footer */
   footer {
-    background-color: #777;
+    background-color: rgba(1, 15, 90, 0.87);
     padding: 5px;
     text-align: center;
     color: white;
