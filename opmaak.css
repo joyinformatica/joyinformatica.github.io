@@ -34,7 +34,7 @@
   /* Style the list inside the menu */
   nav ul {
     list-style-type: none;
-    padding: 10px;
+    padding: 1em;
     color: white;
     font-size: 20px;
   
@@ -42,7 +42,7 @@
   
   article {
     float: left;
-    padding: 10px;
+    padding: 1em;
     width: 85%;
     height: auto;
     background-color: rgba(95, 202, 240, 94);
