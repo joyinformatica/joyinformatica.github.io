@@ -30,6 +30,11 @@
     height: 700;
     padding: 20px;
   }
+
+  picture {
+    float: right;
+    width: 45%
+  }
   
   /* Style the list inside the menu */
   nav ul {
@@ -43,7 +48,7 @@
   article {
     float: left;
     padding: 1em;
-    width: 85%;
+    width: 40%;
     height: auto;
     background-color: rgba(95, 202, 240, 94);
 
