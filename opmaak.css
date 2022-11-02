@@ -11,6 +11,7 @@
   
   body {
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url("");
   }
   
   /* Hiermee style je het bovenste kopje */
@@ -25,7 +26,7 @@
   /* Dit maakt 2 vakjes die naast elkaar zweven */
   nav {
     float: left;
-    width: 100px;
+    width: 20%;
     background: rgba(54, 76, 173, 0.753);
     height: 700;
     padding: 20px;
@@ -45,7 +46,7 @@
   article {
     float: left;
     padding: 1em;
-    width: 300px;
+    width: 45%;
     height: auto;
     background-color: rgba(95, 202, 240, 94);
     margin: 5px, 10px, 5px, 10px;
@@ -84,7 +85,7 @@
 
   picture {
     float: right;
-    width: 200px;
+    width: 25%;
     background: rgba(95, 202, 240, 94);
     height: auto;
     padding: 20px;
