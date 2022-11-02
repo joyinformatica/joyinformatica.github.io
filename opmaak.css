@@ -8,17 +8,14 @@
   * {
     box-sizing: border-box;
   }
-  
 
-  head{
-    background-image: url("achtegrond met 1 en 0.jpg");
-    background-repeat: no-repeat;
-    background-size: auto;
-    filter: blur(8px)
-  }
   
   body {
     font-family: Arial, Helvetica, sans-serif; 
+    background-image: url("achtegrond met 1 en 0.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    filter background: blur(8px)
   }
   
   /* Hiermee style je het bovenste kopje */
