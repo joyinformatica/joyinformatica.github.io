@@ -29,6 +29,7 @@
     background: rgba(54, 76, 173, 0.753);
     height: 700;
     padding: 20px;
+    margin: 5px, 10px, 5px, 10px; 
   }
 
   
@@ -47,6 +48,7 @@
     width: 45%;
     height: auto;
     background-color: rgba(95, 202, 240, 94);
+    margin: 5px, 10px, 5px, 10px;
   }
 
   h5 {                                    
@@ -85,5 +87,6 @@
     background: rgba(95, 202, 240, 94);
     height: auto;
     padding: 20px;
+    margin: 5px, 10px, 5px, 10px;
 
   }
