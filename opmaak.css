@@ -83,7 +83,7 @@
   }
 
   picture {
-    float: right;
+    float: right inline-start;
     width: 35%;
     background: rgba(95, 202, 240, 94);
     height: auto;
