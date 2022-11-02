@@ -94,3 +94,8 @@
     margin: 2% 2%;
 
   }
+
+  h1 {
+    height: fit-content;
+    width: fit-content;
+  }
