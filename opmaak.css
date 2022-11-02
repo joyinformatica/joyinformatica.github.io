@@ -25,7 +25,7 @@
   /* Dit maakt 2 vakjes die naast elkaar zweven */
   nav {
     float: left;
-    width: 50px;
+    width: 100px;
     background: rgba(54, 76, 173, 0.753);
     height: 700;
     padding: 20px;
@@ -45,7 +45,7 @@
   article {
     float: left;
     padding: 1em;
-    width: 80px;
+    width: 300px;
     height: auto;
     background-color: rgba(95, 202, 240, 94);
     margin: 5px, 10px, 5px, 10px;
@@ -84,7 +84,7 @@
 
   picture {
     float: right;
-    width: 80px;
+    width: 200px;
     background: rgba(95, 202, 240, 94);
     height: auto;
     padding: 20px;
