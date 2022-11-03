@@ -52,7 +52,7 @@
     text-decoration: none;
   }
 
-  
+
   article {
     float: left;
     padding: 1em;
@@ -93,8 +93,10 @@
   }
 
   sidebar {
-    float: right;
     width: 35%;
+    position: absolute;
+    top: 2%;
+    left: 50%;
     background: rgba(95, 202, 240, 94);
     height: auto;
     padding: 20px;
