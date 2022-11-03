@@ -94,7 +94,7 @@
 
   sidebar {
     width: 35%;
-    position: absolute;
+    position: static;
     top: 4%;
     left: 50%;
     background: rgba(95, 202, 240, 94);
