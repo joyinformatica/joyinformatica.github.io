@@ -33,7 +33,7 @@
     background: rgba(1, 15, 90, 0.87);
     height: 700;
     padding: 20px;
-    margin: 2% 2%;
+    margin: 2% 1%;
   }
 
   
@@ -52,7 +52,7 @@
     width: 50%;
     height: auto;
     background-color: rgba(95, 202, 240, 94);
-    margin: 2% 2%;
+    margin: 2% 1%;
   }
 
   h5 {                                    
@@ -74,7 +74,7 @@
     padding: 3px;
     text-align: center;
     color: white;
-    margin: 2% 2%;
+    margin: 2% 1%;
   }
   
   /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
@@ -91,7 +91,7 @@
     background: rgba(95, 202, 240, 94);
     height: auto;
     padding: 20px;
-    margin: 2% 2%;
+    margin: 2% 1%;
 
   }
 
