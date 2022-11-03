@@ -29,7 +29,7 @@
   /* Dit maakt 2 vakjes die naast elkaar zweven */
   nav {
     float: left;
-    width: 20%;
+    width: 15%;
     background: rgba(1, 15, 90, 0.87);
     height: 700;
     padding: 20px;
