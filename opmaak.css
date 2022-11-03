@@ -43,9 +43,15 @@
     padding: 10px;
     color: white;
     font-size: 20px;
-    text: white
   
   }
+  
+
+  ul li a {
+    color: white;
+    text-decoration: none;
+  }
+
   
   article {
     float: left;
