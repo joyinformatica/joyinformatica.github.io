@@ -88,8 +88,6 @@
 
   sidebar {
     float: right;
-    position: sticky;
-    top: 20px;
     width: 35%;
     background: rgba(95, 202, 240, 94);
     height: auto;
