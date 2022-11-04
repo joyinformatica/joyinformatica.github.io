@@ -41,7 +41,7 @@
   nav ul {
     list-style-type: none;
     padding: 10px;
-    color: white;
+    color: rgb(236, 11, 11);
     font-size: 20px;
   
   }
@@ -92,18 +92,12 @@
     }
   }
 
-   {
-    
+   
+    aside {
     position: relative;
     left: 55%;
     margin-top: 1em;
     padding: 20px;
     margin: 2% 2%;
 
-  }
-
-  #jas1 {
-    float: right;
-    overflow: auto;
-    width: 35%;
   }
