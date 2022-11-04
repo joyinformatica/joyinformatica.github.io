@@ -92,7 +92,7 @@
     }
   }
 
-  aside {
+   {
     
     position: relative;
     left: 55%;
@@ -100,4 +100,10 @@
     padding: 20px;
     margin: 2% 2%;
 
+  }
+
+  #jas1 {
+    float: right;
+    overflow: auto;
+    width: 35%;
   }
