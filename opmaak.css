@@ -94,7 +94,7 @@
 
    
     aside {
-    position: relative;
+    position: absolute;
     left: 55%;
     margin-top: 1em;
     padding: 20px;
