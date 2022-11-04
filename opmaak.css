@@ -96,6 +96,7 @@
     aside {
     position: absolute;
     left: 55%;
+    top: 20px;
     margin-top: 1em;
     padding: 20px;
     margin: 2% 2%;
