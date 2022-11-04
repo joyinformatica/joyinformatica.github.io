@@ -93,11 +93,10 @@
   }
 
   aside {
-    width: 35%;
+    
     position: relative;
     top: 6%;
     left: 55%;
-    background: rgba(95, 202, 240, 94);
     height: auto;
     padding: 20px;
     margin: 2% 1%;
