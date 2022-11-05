@@ -5,11 +5,12 @@
   text-align: center;
   }
 
+  /* Dit is de soort blokjes dat je ziet*/
   * {
     box-sizing: border-box;
   }
 
-  
+  /* hiermee styl je de body, achtergrond en tekst*/
   body {
     font-family: Arial, Helvetica, sans-serif; 
     background-image: url("achtegrond met 1 en 0.jpg");
@@ -37,7 +38,7 @@
   }
 
   
-  /* Style the list inside the menu */
+  /* Hiermee style je de tekst in het menu */
   nav ul {
     list-style-type: none;
     padding: 10px;
@@ -46,13 +47,13 @@
   
   }
   
-
+/* hiermee maak je de tekst in het menu wit*/
   ul li a {
     color: white;
     text-decoration: none;
   }
 
-
+/* hiermee styl je het middelste bokje, de tekst*/
   article {
     float: left;
     padding: 1em;
@@ -62,6 +63,7 @@
     margin: 2% 2%;
   }
 
+  /*Hiermee styl je de grote zwarte kopjes*/
   h5 {                                    
     color: hsl(0, 0%, 0%);
     text-align: left;
@@ -75,7 +77,7 @@
     clear: both;
   }
   
-  /* Style the footer */
+  /* Hiermee styl je de footer */
   footer {
     background-color: rgba(1, 15, 90, 0.87);
     padding: 3px;
@@ -84,9 +86,9 @@
     margin: 2% 2%;
   }
   
-  /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+  /* Dit zorgt ervoor dat op je telefoon de blokjes op elkaar stapelen en net naast elkaar */
   @media (max-width: 600px) {
-    nav, article, aside {
+    nav, article{
       width: 100%;
       height: auto;
     }
