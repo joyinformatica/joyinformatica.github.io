@@ -96,7 +96,8 @@
     .hoogte {
       height: 400px;
     }
-           
+      /* Dit zord voor de stijle van de dropdown menu */   
+        
     .dropbtn {
       background: rgba(1, 15, 90, 0.87);;
        color: white;
